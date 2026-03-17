@@ -18,13 +18,13 @@ while numero < 1 or numero > 5:
     print("Número inválido! Escolha entre 1 e 5.")
     numero = int(input("Digite novamente: "))
 if numero != numero1:
-    print("és burro")
+    print("és burro O DIDDY BLUD")
     print("o numero era",numero1)
 else:
     print ("ta de hack né")
 nasceu= 2026-idade
 nasceu1 = nasceu - 1
-print ("o numero é",numero1)
+print ("o numero é um rabo MESMO GRANDE",numero1)
 print ("seu nome é",Nome)
 print ("tu nasceu em",nasceu)
 print ("ou em",nasceu1)
